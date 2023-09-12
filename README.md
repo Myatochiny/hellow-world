@@ -1,3 +1,3 @@
 # hellow-world
 Hello World 
-My nane is Gleb.
+My name is Gleb.
